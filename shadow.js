@@ -369,9 +369,9 @@ window.addEventListener('load', function () {
             context.font = '22px Helvetica';
             context.textAlign = 'center';
             context.fillStyle = 'black';
-            context.fillText('Visitez https://gunmay741.github.io/Shadow/shadow.html pour le jeu complet', canvas.width / 2, 200);
+            context.fillText('Visitez https://gunmay-khanna.github.io/Shadow/shadow.html pour le jeu complet', canvas.width / 2, 200);
             context.fillStyle = 'white';
-            context.fillText('Visitez https://gunmay741.github.io/Shadow/shadow.html pour le jeu complet', canvas.width / 2 + 2, 202);
+            context.fillText('Visitez https://gunmay-khanna.github.io/Shadow/shadow.html pour le jeu complet', canvas.width / 2 + 2, 202);
         }
     }
 
